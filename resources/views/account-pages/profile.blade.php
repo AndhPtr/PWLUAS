@@ -177,7 +177,7 @@
                             <ul class="list-group">
                                 <li class="list-group-item border-0 d-flex align-items-center px-0 mb-1">
                                     <div class="avatar avatar-sm rounded-circle me-2">
-                                        <img src="../assets/img/team-1.jpg" alt="kal" class="w-100">
+                                        <img src="../assets/img/Spotify.jpg" alt="kal" class="w-100">
                                     </div>
                                     <div class="d-flex align-items-start flex-column justify-content-center">
                                         <h6 class="mb-0 text-sm font-weight-semibold">Sarah Lamalo</h6>
