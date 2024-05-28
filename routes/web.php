@@ -87,3 +87,4 @@ Route::post('/reset-password', [ResetPasswordController::class, 'store'])
 Route::get('/laravel-examples/user-profile', [ProfileController::class, 'index'])->name('users.profile')->middleware('auth');
 Route::put('/laravel-examples/user-profile/update', [ProfileController::class, 'update'])->name('users.update')->middleware('auth');
 Route::get('/laravel-examples/users-management', [UserController::class, 'index'])->name('users-management')->middleware('auth');
+Route::get('/laravel-examples/users-create', [UserController::class, 'create'])->name('users-create')->middleware('auth');
